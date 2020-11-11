@@ -1,5 +1,5 @@
 # Hello! 👋
-[![Header](https://github.com/sylviajebet/21SkillsTraining/blob/week-four-assignment/aboutMe/myprofile.png "")(https://www.github.com/sylviajebet/)]
+![Header](https://github.com/sylviajebet/21SkillsTraining/blob/week-four-assignment/aboutMe/myprofile.png "")
 ## My name is Sylvia Jebet Kipkemoi.
 
 >An AWS Educate student ambassador, and web development programmer and learner, with an enthusiasm for technology.
